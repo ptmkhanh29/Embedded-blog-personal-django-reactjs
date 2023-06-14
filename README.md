@@ -1,7 +1,7 @@
 # embedded-blog-personal-django-reactjs
-**1. Step 1:** Create new Repo in Github
+**Step 1:** Create new Repo in Github
 
-**1. Step 2:** In local, using
+**Step 2:** In local, using
 `git init `
 
 `git add .`
@@ -15,3 +15,14 @@
 `git pull origin main --allow-unrelated-histories`
 
 `git push origin main`
+
+**Step 3:** Set your current branch as a tracking branch on the remote repository
+`git add .`
+
+`git commit -m "message"`
+
+`git push --set-upstream origin main`
+
+Then use normal git push
+
+`git push` to push new code into repo
