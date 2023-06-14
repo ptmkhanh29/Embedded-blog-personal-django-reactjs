@@ -10,7 +10,7 @@
 
 `git remote add origin https://github.com/ptmkhanh29/embedded-blog-personal-django-reactjs.git`
 
-- Because I'm add README.md in repo Github, I must used
+- Because I'm add README.md in repo Github, I have to use this command to sync all commit history
 
 `git pull origin main --allow-unrelated-histories`
 
