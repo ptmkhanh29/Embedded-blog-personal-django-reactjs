@@ -1,5 +1,6 @@
 # embedded-blog-personal-django-reactjs
-**1. Step 1:** Create new Repo in Github 
+**1. Step 1:** Create new Repo in Github
+
 **1. Step 2:** In local, using
 `git init `
 
