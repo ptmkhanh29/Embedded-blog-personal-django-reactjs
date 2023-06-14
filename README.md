@@ -1,4 +1,4 @@
-# embedded-blog-personal-django-reactjs
+# Embedded-blog-personal-django-reactjs
 **Step 1:** Create new Repo in Github
 
 **Step 2:** In local, using
